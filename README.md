@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Yashshah0223
+- 👋 Hey there, 
+ This is Yash Shah, i am currently pursuing my masters in information technology and analytics at Rutgers Business School. I have dabbled around in sales, marketing and analytics and also am a small scale investor.   
 - 👀 I’m interested in Business and Data analysis and intelligence.
 - 🌱 I’m currently learning R, Python, MySQL, Tableau
 - 💞️ I’m looking to collaborate on projects regarding data analytics and business forecasting.
